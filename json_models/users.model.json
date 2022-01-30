@@ -1,0 +1,7 @@
+{
+    "Name" : "UsersSchema",
+    "Values" : {
+        "username" : "String",
+        "password" : "String"
+    }
+}

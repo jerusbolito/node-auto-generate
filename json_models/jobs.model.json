@@ -1,0 +1,7 @@
+{
+    "Name" : "JobsSchema",
+    "Values" : {
+        "jobDescription" : "String",
+        "jobCode" : "Number"
+    }
+}

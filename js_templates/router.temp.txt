@@ -1,0 +1,7 @@
+const router = require("express").Router();
+const controller = require('{{controller_path}}');
+
+router.get("/", controller.getAllDocuments);
+router.post("/", controller.createDocument);
+
+module.exports = router;

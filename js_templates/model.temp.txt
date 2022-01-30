@@ -1,0 +1,6 @@
+const mongoose = require("mongoose");
+const Schema = mongoose.Schema;
+
+const {{schema_name}} = new Schema({{schema_val}});
+
+module.exports = mongoose.model("{{schema_name}}", {{schema_name}});
